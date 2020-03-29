@@ -3,7 +3,7 @@ A group project in Python that was developed for a university assignment on the 
 
 **Features:**  
 - A run length encoder and decoder for a sample mona lisa image.
-- A differencial pulse-code modulation (DPCM) encoder and decoder for a sample tv advertisement video.
+- A differential pulse-code modulation (DPCM) encoder and decoder for a sample tv advertisement video.
 - Error frame calculation with sum of absolute differences (SAD) metric and macroblock techniques
 - Video object removal from a sample scene with moving characters on a stage.
 
